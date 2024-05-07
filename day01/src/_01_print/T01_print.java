@@ -1,4 +1,4 @@
-package day01;
+package _01_print;
 
 public class T01_print {
 
@@ -24,5 +24,5 @@ System.out.print("줄바꿈 안함");
 System.out.print("이제 줄바꿈 안됨");
 
 System.out.print("저는 최서진");
-System.out.print(");
+
 }}
