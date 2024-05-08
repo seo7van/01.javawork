@@ -34,6 +34,8 @@ public class T01_var {
 		// 기본 자료형 8바이트를  f1oat 4byte에 (큰자료형을 작은 자료형에) 넣어서 오류남
 		float float01 = 45.829384723f;
 		
+		
+		
 	}
 
 }

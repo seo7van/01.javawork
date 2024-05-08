@@ -12,8 +12,10 @@ public class T02_print {
 		
 		//8진수 출력
 		System.out.printf("%x\n", 13);
-		System.out.printf("%d\n", 13);
+
 		
+//		16진수 출력
+		System.out.pritf(%x\n",13);
 		//실수형 출력
 		System.out.printf("%f\n", 3.55555555555555555555);
 		
