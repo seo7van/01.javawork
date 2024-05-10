@@ -6,7 +6,7 @@ public class T01_promotion {
 		byte b1 = 20;
 		short s1 = b1;
 		
-		int int1 = b1;
+		int ffor = 10;
 		int1 = s1;
 //		sysout + ctrl + 스페이스 바 : System.out.println();의 단축어		
 		char ch1 = '최';
