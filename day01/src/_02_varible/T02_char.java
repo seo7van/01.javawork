@@ -11,11 +11,12 @@ public class T02_char {
 		System.out.println(ch3);
 		
 		char ch4 = 'A' + 1; //'A'리터럴 값이라고 함
+		
+//	    char ch6 = ch5 + 1; 지동형변환 때문에 오류
 		System.out.println(ch4);
 		char ch5 = 'C';
-		// char ch6 = ch5 + 1; 지동형변환 때문에 오류
 		
 		char ch7 = 'A' + '1'; //A의 유니코드(65)+ 1의 유니코드 (49) =114
-		
+		System.out.println(ch7);
 
 	}}
