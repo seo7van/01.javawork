@@ -41,6 +41,8 @@ public class T01_Scanner {
     			char gender3 = scan.next().charAt(2);
     			//System.out.println("성별 : " + gender2);
     			System.out.println("성별 :" + gender3);
+    			
+    			
     
 	
 	}

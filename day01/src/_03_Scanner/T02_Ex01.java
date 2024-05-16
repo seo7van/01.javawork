@@ -26,4 +26,5 @@ public class T02_Ex01 {
 	             System.out.println("당신의 성적이 만족 스럽다고 생각하나요 ?" + i);        } }
 	       	     catch (Exception e) 
 	        	 {System.out.println(e);
+	        	 
              	 }}}

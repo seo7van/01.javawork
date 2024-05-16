@@ -19,6 +19,8 @@ public class T02_2차원배열 {
 		int person = sc.nextInt();
 		System.out.print("사탕 갯수 : ");
 		int candy = sc.nextInt();*/
+	
+	
 	}
 
 	}                                                                                                                                                                                                                                                                                                                                                                                                                                                        
