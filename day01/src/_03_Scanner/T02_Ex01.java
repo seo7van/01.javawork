@@ -22,7 +22,7 @@ public class T02_Ex01 {
 	       	    System.out.println("당신의 평균은 : "+ sum/3);
 	       	    
 	        	 try {for (int i = 0; i < 2; i++)
-	        	 {TimeUnit.SECONDS.sleep(2);
+	        	 {TimeUnit.SECONDS.sleep(3);
 	             System.out.println("당신의 성적이 만족 스럽다고 생각하나요 ?" + i);        } }
 	       	     catch (Exception e) 
 	        	 {System.out.println(e);

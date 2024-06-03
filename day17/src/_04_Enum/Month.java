@@ -1,0 +1,18 @@
+package _04_Enum;
+
+public enum Month {
+	
+	JANUARY,
+	FABURATY,
+	MARCH,
+	APRIL,
+	MAY,
+	JUNE,
+	JULY,
+	AUGUST,
+	SEPTEMBER,
+	OCTOBER,
+	NOVEMBER,
+	DECEMBER
+
+}
